@@ -14,6 +14,7 @@
   <a aria-label="Chat or ask a question" href="https://chat.expo.dev" target="_blank">
     <img alt="Chat or ask a question" src="https://img.shields.io/discord/695411232856997968.svg?style=flat-square&labelColor=000000&color=4630EB&logo=discord&logoColor=FFFFFF&label=Chat%20with%20us" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fexpo?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fexpo.svg?type=shield"/></a>
   <a aria-label="Expo is free to use" href="https://github.com/expo/expo/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" />
   </a>
@@ -50,6 +51,9 @@
     <img alt="Expo on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fexpo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fexpo?ref=badge_large)
 
 ## Introduction
 
